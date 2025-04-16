@@ -34,6 +34,12 @@ __pycache__/
 *.h5
 *.npz
 *.npy
+*.txt
+*.img
+*.png
+*.jpeg
+*.jpg
+*.gif
 
 # 대용량 파일 폴더 (예: raw data)
 data/
